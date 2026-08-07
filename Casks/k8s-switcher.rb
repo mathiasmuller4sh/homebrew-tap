@@ -1,8 +1,8 @@
 cask "k8s-switcher" do
-  version "0.2.3"
-  sha256 "5b54fc3244482d9d3015d90e81ce4480f61f9209f619756b3441a00d650f30fb"
+  version "0.2.4"
+  sha256 "2c0ee981655779424806a4cbe29cf1ae3e932a1d2a12cc87efbf7ed6a66880e1"
 
-  url "https://github.com/mathiasmuller4sh/k8S-switcher/releases/download/v0.2.3/K8Switcher_0.2.3_aarch64.dmg"
+  url "https://github.com/mathiasmuller4sh/k8S-switcher/releases/download/v0.2.4/K8Switcher_0.2.4_aarch64.dmg"
   name "K8s Switcher"
   desc "Kubernetes cluster and namespace switcher"
   homepage "https://github.com/mathiasmuller4sh/k8S-switcher"
